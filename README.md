@@ -2,7 +2,7 @@
    
   <div align="center"style="display:flex;width:100%;">
   <a href="https://github.com/Maciel-Jr">
-  <img style="width:60%;" height="300px" width="45%" src="https://github-readme-stats.vercel.app/api?username=Maciel-Jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="width:50%;" height="300px" width="45%" src="https://github-readme-stats.vercel.app/api?username=Maciel-Jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img style="width:40%;" height="300px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel-Jr&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   <div align="center">
