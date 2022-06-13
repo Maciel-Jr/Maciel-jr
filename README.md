@@ -2,8 +2,8 @@
    
   <div align="center">
   <a href="https://github.com/Maciel-Jr">
-  <img height="300em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Maciel-Jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="300em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel-Jr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="300px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Maciel-Jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="300px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel-Jr&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   <div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
