@@ -1,4 +1,16 @@
-## OiOi Meu nome é Maciel, sou novo em programação web
+# 👋 Olá! Eu sou Maciel
+
+💻 Desenvolvedor focado em:
+- React Native
+- Python
+- IA
+- APIs
+- Delphi
+
+🚀 Atualmente criando:
+- Sistema de transporte fluvial
+- App detector de fake news
+- Projetos com IA
    
  <div align="center" style="display:flex;">
   <a href="https://github.com/Maciel-Jr">
