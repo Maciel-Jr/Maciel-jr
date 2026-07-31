@@ -1,7 +1,7 @@
 # 👋 Hello there—let's get coding.
 
-💻 Desenvolvedor focado em:
-- React Native
+💻 Desenvolvedor Experiênte em:
+- SQL
 - Python
 - APIs
 - Delphi
