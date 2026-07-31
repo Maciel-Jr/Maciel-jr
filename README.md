@@ -25,5 +25,17 @@
 ## 📊 Linguagens usadas recentemente
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maciel-Jr/Maciel-Jr/main/metrics/metrics.plugin.languages.recent.svg" alt="Recently used languages">
+  <img src="/metrics.base.svg">
+</p>
+
+<p align="center">
+  <img src="/metrics.languages.svg">
+</p>
+
+<p align="center">
+  <img src="/metrics.activity.svg">
+</p>
+
+<p align="center">
+  <img src="/metrics.achievements.svg">
 </p>
