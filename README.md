@@ -22,20 +22,9 @@
   <br>
   
  ![Snake animation](https://raw.githubusercontent.com/Maciel-Jr/Maciel-Jr/output/github-contribution-grid-snake.svg)
-## 📊 Linguagens usadas recentemente
+
 
 <p align="center">
-  <img src="/metrics.base.svg">
+  <img src="/metrics.languages.svg" width="80%">
 </p>
 
-<p align="center">
-  <img src="/metrics.languages.svg">
-</p>
-
-<p align="center">
-  <img src="/metrics.activity.svg">
-</p>
-
-<p align="center">
-  <img src="/metrics.achievements.svg">
-</p>
