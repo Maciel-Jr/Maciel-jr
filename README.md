@@ -22,5 +22,8 @@
   <br>
   
  ![Snake animation](https://raw.githubusercontent.com/Maciel-Jr/Maciel-Jr/output/github-contribution-grid-snake.svg)
+## 📊 Linguagens usadas recentemente
 
-![Metrics](https://github.com/Maciel-Jr/Maciel-Jr/blob/examples/metrics.plugin.starlists.languages.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maciel-Jr/Maciel-Jr/main/metrics/metrics.plugin.languages.recent.svg" alt="Recently used languages">
+</p>
