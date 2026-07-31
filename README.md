@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Maciel
+# 👋 Hello there—let's get coding.
 
 💻 Desenvolvedor focado em:
 - React Native
