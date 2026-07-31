@@ -23,4 +23,4 @@
   
  ![Snake animation](https://raw.githubusercontent.com/Maciel-Jr/Maciel-Jr/output/github-contribution-grid-snake.svg)
 
-![Metrics](https://github.com/Maciel-Jr/Maciel-Jr/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Maciel-Jr/Maciel-Jr/blob/examples/metrics.plugin.starlists.languages.svg)
