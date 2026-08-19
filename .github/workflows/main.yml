@@ -21,7 +21,7 @@ jobs:
               with:
                   github_user_name: ${{ github.repository_owner }}
                   # Comma-separated list of game names to generate. Default: pacman
-                  games: 'pacman,breakout'
+                  games: 'pacman,breakout, galaga'
                   # Optional: omit the month labels row above the grid. Default: false
                   hide_month_labels: 'false'
 
