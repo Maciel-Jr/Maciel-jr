@@ -55,7 +55,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           
-     - name: Featured star list languages
+      - name: Featured star list languages
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.starlists.languages.svg
