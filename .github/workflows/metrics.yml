@@ -41,7 +41,7 @@ jobs:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: |
-          python .github/scripts/generate_languages.py
+          python scripts/generate_languages.py
 
       - name: Commit SVG
         run: |
