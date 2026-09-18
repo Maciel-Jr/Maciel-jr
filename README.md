@@ -31,11 +31,11 @@
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maciel-Jr/Maciel-jr/output/galaga-contribution-graph-dark.svg">
      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maciel-Jr/Maciel-jr/output/galaga-contribution-graph.svg">
      <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Maciel-Jr/Maciel-jr/output/galaga-contribution-graph.svg">
-     ![Top Languages](./profile/top-langs.svg)
+     
   </picture>
 </p>
 
 <p align="center">
-  <img src="/metrics.languages.svg" width="80%">
+  <img src="/profile/top-langs.svg" width="40%">
 </p>
 
