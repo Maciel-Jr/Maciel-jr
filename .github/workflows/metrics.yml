@@ -15,6 +15,25 @@ jobs:
 
     steps:
 
+      - name: Test GitHub token
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer $GH_STATS_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            https://api.github.com/user)
+      
+          echo "GitHub API status: $STATUS"
+      
+          if [ "$STATUS" != "200" ]; then
+            echo "Token não está sendo aceito pelo GitHub."
+            exit 1
+          fi
+  
+          echo "Token autenticado com sucesso!"
+
       - name: Checkout
         uses: actions/checkout@v6
 
