@@ -23,22 +23,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
   
 
-      - name: Activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_habits: yes
-          plugin_lines: yes
-
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          
-               
