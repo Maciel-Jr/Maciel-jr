@@ -1,0 +1,196 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="420"
+     viewBox="0 0 900 420">
+
+    <rect width="900"
+          height="420"
+          rx="12"
+          fill="#0d1117"/>
+
+    <text x="40"
+          y="55"
+          fill="#58a6ff"
+          font-size="28"
+          font-family="Arial">
+        Most Used Languages
+    </text>
+
+    <rect
+        x="40"
+        y="100"
+        width="616.7445513952215"
+        height="18"
+        fill="#F1E05A"/>
+
+    <rect
+        x="656.7445513952215"
+        y="100"
+        width="169.13249434740746"
+        height="18"
+        fill="#3178C6"/>
+
+    <rect
+        x="825.877045742629"
+        y="100"
+        width="19.95147538232975"
+        height="18"
+        fill="#3572A5"/>
+
+    <rect
+        x="845.8285211249587"
+        y="100"
+        width="6.809206920239254"
+        height="18"
+        fill="#00ADD8"/>
+
+    <rect
+        x="852.637728045198"
+        y="100"
+        width="6.377239369734941"
+        height="18"
+        fill="#DA5B0B"/>
+
+    <rect
+        x="859.0149674149329"
+        y="100"
+        width="0.8113058625732608"
+        height="18"
+        fill="#563D7C"/>
+
+    <rect
+        x="859.8262732775062"
+        y="100"
+        width="0.08953767122917426"
+        height="18"
+        fill="#178600"/>
+
+    <rect
+        x="859.9158109487354"
+        y="100"
+        width="0.08418905126465924"
+        height="18"
+        fill="#E34C26"/>
+
+    <circle
+        cx="50"
+        cy="164"
+        r="7"
+        fill="#F1E05A"/>
+
+    <text
+        x="70"
+        y="170"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        Python 75.21%
+    </text>
+
+    <circle
+        cx="450"
+        cy="164"
+        r="7"
+        fill="#3178C6"/>
+
+    <text
+        x="470"
+        y="170"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        HTML 20.63%
+    </text>
+
+    <circle
+        cx="50"
+        cy="219"
+        r="7"
+        fill="#3572A5"/>
+
+    <text
+        x="70"
+        y="225"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        C 2.43%
+    </text>
+
+    <circle
+        cx="450"
+        cy="219"
+        r="7"
+        fill="#00ADD8"/>
+
+    <text
+        x="470"
+        y="225"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        JavaScript 0.83%
+    </text>
+
+    <circle
+        cx="50"
+        cy="274"
+        r="7"
+        fill="#DA5B0B"/>
+
+    <text
+        x="70"
+        y="280"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        CSS 0.78%
+    </text>
+
+    <circle
+        cx="450"
+        cy="274"
+        r="7"
+        fill="#563D7C"/>
+
+    <text
+        x="470"
+        y="280"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        PowerShell 0.10%
+    </text>
+
+    <circle
+        cx="50"
+        cy="329"
+        r="7"
+        fill="#178600"/>
+
+    <text
+        x="70"
+        y="335"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        Shell 0.01%
+    </text>
+
+    <circle
+        cx="450"
+        cy="329"
+        r="7"
+        fill="#E34C26"/>
+
+    <text
+        x="470"
+        y="335"
+        fill="#8b949e"
+        font-size="17"
+        font-family="Arial">
+        Batchfile 0.01%
+    </text>
+
+</svg>
