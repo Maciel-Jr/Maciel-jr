@@ -5,7 +5,11 @@
 - Python
 - APIs
 - Delphi
-
+- 
+<div align="center">
+  <img width="49%" src="./profile/stats.svg" alt="Maciel Junior" />
+  <img width="41%" src="./profile/top-langs.svg" alt="Top Languages" />
+</div>
    
  <div align="center" style="display:flex;">
   <a href="https://github.com/Maciel-Jr">
@@ -35,7 +39,5 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="/profile/top-langs.svg" width="40%">
-</p>
+
 
