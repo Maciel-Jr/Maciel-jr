@@ -26,6 +26,14 @@ jobs:
           plugin_followup: yes
           plugin_repositories: yes
 
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
