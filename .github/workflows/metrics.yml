@@ -27,10 +27,19 @@ jobs:
         run: |
           pip install requests
 
+      - name: Check files
+        run: |
+          echo "Diretório atual:"
+          pwd
+
+          echo ""
+          echo "Arquivos .github:"
+          find .github -maxdepth 3 -type f -print
+
       - name: Generate languages card
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
-          GITHUB_ACTOR: ${{ github.repository_owner }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
         run: |
           python .github/scripts/generate_languages.py
 
